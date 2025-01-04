@@ -39,6 +39,18 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+
+
+
+
+
+ application built  with Apollo client and GraphQL:
+
+ The first page of the application should display the list of countries
+ •Every country should have a details button beside it
+ •On clicking the details button, the user should get the details of the respective country
+
+
 ##### **APP LINK**
 
 [https://illustrious-sable-9e6ea2.netlify.app](https://illustrious-sable-9e6ea2.netlify.app/)
